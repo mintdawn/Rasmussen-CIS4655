@@ -26,6 +26,7 @@
               <li>The first column displays text that contains one h1 header and formatted text.</li>
               <li>The second column contains a form with at least 2 button styles.</li>
               <li>The third column contains a responsive image of your choice that resizes as the browswer window size changes.</li>
+              <li><a href="https://github.com/mintdawn/Rasmussen-CIS4655/blob/master/module2/activity/index.php">The Code for this Assignment at GitHub.</a></li>
             </ul>
           </div>
           <div class="col-sm bg-light text-secondary p-4 ">
