@@ -7,58 +7,12 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-
+    <link rel="stylesheet" href="css/book.css">
     <title>Dawn Summerall Module 2 Course Project</title>
-    <style>
-      .pages {
-        max-height: 70vh;
-        margin: 50px 20px 0px 20px;
-      }
-      .carousel-indicators {
-        opacity: .75;
-      }
-      .carousel-control-prev-icon,
-      .carousel-control-next-icon {
-        height: 75px;
-        width: 75px;
-      }
-      .carousel-indicators {
-        width: 50%;
-      }
-      #bookslider {
-        height: 90vh;
-        padding-left: 20px;
-        padding-right: 20px;
-      }
-      @media only screen and (max-width: 360px) {
-        .carousel-control-prev-icon,
-        .carousel-control-next-icon {
-          height: 30px;
-          width: 30px;
-        }
-        .carousel-indicators {
-          width: 75%;
-        }
-        .pages {
-          max-height: 75vh;
-        }
-        #bookslider {
-          height: 80vh;
-        }
-      }
-        @media only screen and (max-width: 800px) {
-          .pages {
-            max-height: 85vh;
-          }
-          #bookslider {
-            height: 90vh;
-          }
-        }
-    </style>
+
   </head>
   <body class="bg-success">
     <?php include 'navbar2.html';?>
-
     <div class="container bg-success">
       <div class="row">
         <div class="col-xs-12 col-sm-10 col-md-10 col-lg-10 col-xl-10 mx-auto mb-2">
@@ -120,6 +74,11 @@
         </div>
       </div>
     </div>
+  </div>
+  <div class="container-fluid w-100 bg-light rounded text-secondary p-4">
+    <h2>A Bootstrap Carousel Displaying a Book</h2>
+    <hr>
+    <p>This page employs a Bootstrap carousel with previous and next navigation and bottom of the image indicators to display a book. The page and the slider are responsive. There are several breakpoints for this page. It was tested using Google developer tools for the following sizes: IPad, Iphone V-X, Galaxy and Google phones. It took a ton of time to get this right and its probably still not right. Let me know if there are any problems with this page. This page was based on a wireframe I did for class. It was supposed to contain the carousel, a top navigation menu that was sticky and contained links and text containing the page title. The page also needed to have a footer that displayed the page name.</p>
   </div>
     <?php include 'footer.html'; ?>
 

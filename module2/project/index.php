@@ -39,6 +39,11 @@
       </div>
     </div>
   </div>
+  <div class="container-fluid w-100 bg-light rounded text-secondary p-4">
+    <h2>A Bootstrap Carousel Displaying a Book</h2>
+    <hr>
+    <p>This page was done for a school assignment. It was based on a wireframe I did in class. It was supposed to incorporate Bootstrap components to achieve the desired look and functionality. The page was supposed to have a Jumbotron, a navbar with links and a non-functional search bar. It was also supposed to display two bodies of text side by side in columns.</p>
+  </div>
   <?php include 'footer.html'; ?>
 
     <!-- Optional JavaScript -->
