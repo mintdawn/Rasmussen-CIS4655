@@ -1,0 +1,51 @@
+/* styles for the book.php page */
+  .booklist-container {
+    padding: 30px;
+  }
+  .book-card {
+    margin-bottom: 5px;
+  }
+  .pages {
+    max-height: 70vh;
+    margin: 50px 20px 0px 20px;
+  }
+  .carousel-indicators {
+    opacity: .75;
+  }
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    height: 75px;
+    width: 75px;
+  }
+  .carousel-indicators {
+    width: 50%;
+  }
+  #bookslider {
+    height: 90vh;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  @media only screen and (max-width: 360px) {
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+      height: 30px;
+      width: 30px;
+    }
+    .carousel-indicators {
+      width: 75%;
+    }
+    .pages {
+      max-height: 75vh;
+    }
+    #bookslider {
+      height: 80vh;
+    }
+  }
+    @media only screen and (max-width: 800px) {
+      .pages {
+        max-height: 85vh;
+      }
+      #bookslider {
+        height: 90vh;
+      }
+    }
