@@ -8,6 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="css/book.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:900|Shrikhand" rel="stylesheet">
 
     <title>Dawn Summerall Module 2 Course Project</title>
   </head>
@@ -19,7 +20,7 @@
         <div class="col-lg-4 rounded bg-white book-card p-3">
           <div class="row">
             <div class="col-4 my-auto">
-              <img class="img-fluid" src="img/book01-sm.png" height="200" width="150" alt="The Book of Stars">
+              <a href="book01.php"><img class="img-fluid" src="img/book01-sm.png" height="200" width="150" alt="The Book of Stars"></a>
             </div>
             <div class="col-8 my-auto">
               <h4>The Stars Mini-Book</h4>
@@ -31,12 +32,12 @@
         <div class="col-lg-4 rounded bg-white book-card p-3">
           <div class="row">
             <div class="col-4 my-auto">
-              <img class="img-fluid" src="https://via.placeholder.com/150x200" alt="Card image cap">
+              <a href="book02.php"><img class="img-fluid" src="img/book02-sm.png" height="200" width="150" alt="Basic and Found Fills"></a>
             </div>
             <div class="col-8 my-auto">
-              <h4>Card title</h4>
-              <p>Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-dark">Go somewhere</a>
+              <h4>Basic and Found Fills</h4>
+              <p>This book is a catalog of different patterns and fills that can be used for inspiration when doing zentangle style drawing.</p>
+              <a href="book02.php" class="btn btn-dark">Read Online</a>
             </div>
           </div>
         </div>

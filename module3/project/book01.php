@@ -8,18 +8,20 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="css/book.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:900|Shrikhand" rel="stylesheet">
     <title>Dawn Summerall Module 2 Course Project</title>
 
   </head>
   <body class="bg-light">
     <?php include 'header.html'; ?>
     <?php include 'navbar.html'; ?>
-    <div class="container-fluid bg-light">
+    <div class="container-fluid bg-light text-center">
+      <h2>The Stars Mini Book</h2>
       <div class="row">
         <div class="col-xs-12 col-sm-10 col-md-10 col-lg-10 col-xl-10 mx-auto mb-2">
         	<br />
           <div id="bookslider" class="carousel slide rounded bg-dark" data-ride="carousel" style="background-image: url('book-background.jpeg');">
-          <ol class="carousel-indicators bg-secondary rounded p-3 mx-auto">
+          <ol class="carousel-indicators bg-secondary rounded p-3 mx-auto d-none d-md-flex">
             <li data-target="#bookslider" data-slide-to="0" class="active"></li>
             <li data-target="#bookslider" data-slide-to="1"></li>
             <li data-target="#bookslider" data-slide-to="2"></li>
