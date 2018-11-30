@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="css/book.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:900|Shrikhand" rel="stylesheet">
 
-    <title>Dawn Summerall Module 2 Course Project</title>
+    <title>Dawn Summerall Course Project</title>
   </head>
   <body>
     <?php include 'header.html'; ?>

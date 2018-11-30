@@ -16,7 +16,7 @@
   <!-- top row -->
     <div class="jumbotron jumbotron-fluid bg-danger m-0 text-light" style="background:url(catheader.jpg) no-repeat center center / cover;">
       <div class="container">
-        <div class="p-4" style="background-color: black;border: 1px solid black;opacity: 0.6; ">
+        <div>
           <h1 class="display-4">Cat Facts</h1>
         </div>
       </div>
