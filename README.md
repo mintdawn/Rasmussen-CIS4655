@@ -41,7 +41,7 @@ Module 3 Course Project assignment added. Using the basic template you created i
 Using your own creativity, translate the sketch used in the Module 3 Activity into a wireframe that uses the following style and layout components to the home page or other linked pages:
 
 * At least 3 buttons that have badges. They can be any size you choose, as well as any style.
-  * Each of the red buttons inside the fact cards has a little counter badge. When the page retreives data from the [Cat Facts API](https://github.com/alexwohlbruck/cat-facts) it goes through a loop and each time it goes through the loop it counts it and prints it in the card so each fact is numbered in the order it was retreived.
+  * Each of the red buttons inside the fact cards has a little counter badge. When the page retrieves data from the [Cat Facts API](https://github.com/alexwohlbruck/cat-facts) it goes through a loop and each time it goes through the loop it counts it and prints it in the card so each fact is numbered in the order it was retrieved.
 * At least 2 labels.
   * There are two labels beneath the navbar
 * At least 1 jumbotron.
