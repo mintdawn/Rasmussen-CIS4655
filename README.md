@@ -34,10 +34,10 @@ Module 3 Activity assignment added. This assignment was to create a responsive p
 
 11/23/2018
 
-Module 3 Course Project assignment added. Using the basic template you created in the Module 02 course project, select ONE navigation bar style, and add it to the home page. Create associated pages that are linked in the navigation, so that when the user clicks on a menu item, the site navigates to a new page. I changed the look of the site and made the theme of the site uniform instead of 3 different layouts. Every page has a header and navigation. I'm still working with various Bootstrap components to learn more about using them. The page displays responsively on several different kinds of devices. I had trouble getting space between the <divs> on the booklist.php page. Every time I would add a little padding between these sections it would cause them to wrap down to the next line. I ended up just putting padding on the bottom of them so they would at least look okay on smaller devices. 
-  
+Module 3 Course Project assignment added. Using the basic template you created in the Module 02 course project, select ONE navigation bar style, and add it to the home page. Create associated pages that are linked in the navigation, so that when the user clicks on a menu item, the site navigates to a new page. I changed the look of the site and made the theme of the site uniform instead of 3 different layouts. Every page has a header and navigation. I'm still working with various Bootstrap components to learn more about using them. The page displays responsively on several different kinds of devices. I had trouble getting space between the <divs> on the booklist.php page. Every time I would add a little padding between these sections it would cause them to wrap down to the next line. I ended up just putting padding on the bottom of them so they would at least look okay on smaller devices.
+
  11/28/2018
- 
+
 Using your own creativity, translate the sketch used in the Module 3 Activity into a wireframe that uses the following style and layout components to the home page or other linked pages:
 
 * At least 3 buttons that have badges. They can be any size you choose, as well as any style.
@@ -50,3 +50,7 @@ Using your own creativity, translate the sketch used in the Module 3 Activity in
   * There are a ton of cards that are each holding a piece of data from the Cat Facts API.
 
 The transparent black block of text in the jumbotron could use some work. I'd like it to float to the left when viewed from a large device and then become centered with smaller text on smaller device. That might be a lesson for another day though.
+
+11/30/2018
+
+I completed and committed the Module 4 Course Project files. I made a ton of mistakes again with this project. I keep misunderstanding the assignments but, hopefully the finished work is okay. For this project, I was supposed to create a new page based on a wireframe I should have done in the activity but, I made a whole new page there as well instead of a wireframe. Oh well, practice makes perfect. This page should have the same Bootstrap component requirements as the Mod 4 Activity. It does have these but it is slightly different. I found a more responsive way to layout the cards thanks to this [tutorial project](https://codepen.io/smashtheshell/pen/qRRdvb). I am sorry about the mix up. These challenges are so fun I am getting ahead of myself.
