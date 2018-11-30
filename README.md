@@ -35,3 +35,18 @@ Module 3 Activity assignment added. This assignment was to create a responsive p
 11/23/2018
 
 Module 3 Course Project assignment added. Using the basic template you created in the Module 02 course project, select ONE navigation bar style, and add it to the home page. Create associated pages that are linked in the navigation, so that when the user clicks on a menu item, the site navigates to a new page. I changed the look of the site and made the theme of the site uniform instead of 3 different layouts. Every page has a header and navigation. I'm still working with various Bootstrap components to learn more about using them. The page displays responsively on several different kinds of devices. I had trouble getting space between the <divs> on the booklist.php page. Every time I would add a little padding between these sections it would cause them to wrap down to the next line. I ended up just putting padding on the bottom of them so they would at least look okay on smaller devices. 
+  
+ 11/28/2018
+ 
+Using your own creativity, translate the sketch used in the Module 3 Activity into a wireframe that uses the following style and layout components to the home page or other linked pages:
+
+* At least 3 buttons that have badges. They can be any size you choose, as well as any style.
+  * Each of the red buttons inside the fact cards has a little counter badge. When the page retreives data from the [Cat Facts API](https://github.com/alexwohlbruck/cat-facts) it goes through a loop and each time it goes through the loop it counts it and prints it in the card so each fact is numbered in the order it was retreived.
+* At least 2 labels.
+  * There are two labels beneath the navbar
+* At least 1 jumbotron.
+  * There's a jumbotron at the top with a picture in it.
+* At least 1 card. The button on the card must link to another page of content.
+  * There are a ton of cards that are each holding a piece of data from the Cat Facts API.
+
+The transparent black block of text in the jumbotron could use some work. I'd like it to float to the left when viewed from a large device and then become centered with smaller text on smaller device. That might be a lesson for another day though.
