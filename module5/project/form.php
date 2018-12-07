@@ -17,7 +17,7 @@
 
 <!-- the mod 5 assignment -->
     <div class="container-fluid bg-light p-4">
-      <h2>Experimental Bootstrap Forms Page</h2>
+      <h2>Bootstrap Forms Page</h2>
       <form action="" class="main-form needs-validation" novalidate>
       <!-- two text boxes -->
         <div class="form-group">
