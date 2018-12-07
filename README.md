@@ -54,3 +54,21 @@ The transparent black block of text in the jumbotron could use some work. I'd li
 11/30/2018
 
 I completed and committed the Module 4 Course Project files. I made a ton of mistakes again with this project. I keep misunderstanding the assignments but, hopefully the finished work is okay. For this project, I was supposed to create a new page based on a wireframe I should have done in the activity but, I made a whole new page there as well instead of a wireframe. Oh well, practice makes perfect. This page should have the same Bootstrap component requirements as the Mod 4 Activity. It does have these but it is slightly different. I found a more responsive way to layout the cards thanks to this [tutorial project](https://codepen.io/smashtheshell/pen/qRRdvb). I am sorry about the mix up. These challenges are so fun I am getting ahead of myself.
+
+12/7/2018
+
+The assignment for Module 5 was:
+
+Create one new page in your site that contains a form. Your form must use the Bootstrap framework and styling. Your form must have:
+
+* At least 2 text boxes
+* At least 1 text area
+* At least 1 set of check boxes
+* At least 1 set of radios
+* At least one dropdown with 3 options
+* A submit button
+
+The form must have form validation to disallow submission when the submit button is clicked.
+The form does not require an action, since form processors were not covered in this course.
+
+I did all of these things and used a small bit of JavaScript for part of the form validation. I may put functionality into the form later but for now it is just a study in how Bootstrap form validation works to make sure the form contains the required information before it is submitted.
