@@ -72,3 +72,17 @@ The form must have form validation to disallow submission when the submit button
 The form does not require an action, since form processors were not covered in this course.
 
 I did all of these things and used a small bit of JavaScript for part of the form validation. I may put functionality into the form later but for now it is just a study in how Bootstrap form validation works to make sure the form contains the required information before it is submitted.
+
+12/14/2018
+
+The assignment for Module 6 was:
+
+Using the Notifications API, add at least one type of notification to one page of your application.
+
+Your notification must:
+
+* Appear for at least 10 seconds.
+* Require the end user’s permission.
+* Must close when the user clicks.
+
+This took much longer than it should have. I had a lot of trouble figuring out exactly where the script should go. If I placed it anywhere except at the very bottom before the BODY tag, the code would not work. I also received error messages when I used a mix of http and https in the code. Chrome wanted the https url prefix. Once I got past these hurdles, things went better. I was able to create a notification based on the Professor's Toastr script. Toastr was really nice. It matches Bootstrap. I wish it had a cheat sheet for everything it does. I should have gone in and read all the classes but, this is being done over the last two days of class and my time is short. I was unsure about how to make the Toast go to another website when the notification was clicked on but, that isn't even in the assignment. I did get the second regular notification to do this at one point. I took the navigation out when I reread the specifics for the project however, I think I could use something similar to get a Toast notification to do the same thing. I thought this would be a fun project. It was a little frustrating at first and THEN it turned into a fun project. I will have to play with this some more.
